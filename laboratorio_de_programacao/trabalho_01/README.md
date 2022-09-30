@@ -3,14 +3,14 @@
 </p>
 
 <p align="center">
-  Programming laboratory course taught by prof. Dr. Marcio Costa Santos
+  Programming laboratory course taught by prof. Dr. Marcio Costa Santos - 2022.2 (Second Semester of the Software Engineering Class)
 </p>
 
-<h1 align="center">
+<p align="center">
   
   [Click Here](https://youtu.be/rG6mPPvy0lY) to watch the program running
 
-</h1>
+</p>
 
 <br>
 
@@ -26,7 +26,7 @@ Clone the project and access its folder.
 
 ```bash
 $ git clone https://github.com/joaoalcdev/universidade_federal_ceara.git
-$ cd .\trabalho_01\
+$ cd .\laboratorio_de_programacao\trabalho_01\
 ```
 
 <!-- To start it, follow the steps below: -->
