@@ -6,11 +6,13 @@
   Programming laboratory course taught by prof. Dr. Marcio Costa Santos - 2022.2 (Second Semester of the Software Engineering Class)
 </p>
 
+<div align="center">
 <p align="center">
   
   [Click Here](https://youtu.be/rG6mPPvy0lY) to watch the program running
 
 </p>
+</div>
 
 <br>
 
@@ -52,4 +54,10 @@ This project has no license.
 
 ---
 
-Made with 💜 by [João Alcântara](https://github.com/joaoalcdev) 👋🏻
+<div align="center">
+<p align="center">
+  
+  Made with 💜 by [João Alcântara](https://github.com/joaoalcdev) 👋🏻
+
+</p>
+</div>
